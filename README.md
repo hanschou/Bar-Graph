@@ -1,4 +1,4 @@
-# Creating a simple array bar graph using numbers as input in BASH terminal
+# Creating a simple array bar graph using numbers as input in shell scripting / terminal
 When  user gives input of 5 numbers from 1 to 20 in the terminal, bar graph is created. Here I have used "=" (equal to) sign to represent each bar. 
 
 echo “ ” give out empty lines in standard output (terminal).

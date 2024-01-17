@@ -12,3 +12,5 @@ position form 1 to 5.
 Save the file with ".sh" extension and call the name in terminal with appropriate address of the file to create bar-graph, I had saved my file in home directory so I called the files in bash as ":-$ ./bargraph.sh". 
 
 After you give input the bar chart appears as:
+
+![Figure: Output](Screenshot%20from%202019-06-15%2016-04-55.png)
